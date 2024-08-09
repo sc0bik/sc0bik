@@ -1,2 +1,2 @@
 <h1 align="center">Hi there, I'm scobik </h1> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>   I'm a student from 🇷🇺 </h1>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
