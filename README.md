@@ -5,7 +5,7 @@
 </h3>
 
 
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
+<img align="right" alt="Coding" width="200" src="https://i.postimg.cc/Vk6kz56R/photo-2024-08-04-18-26-00.jpg">
 
 ---
 
